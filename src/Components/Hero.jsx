@@ -103,6 +103,7 @@ export default function Hero() {
                                     width: "100%",
                                     fontSize: "14px",
                                     borderRadius: "8px",
+                                    textColor:"white",
                                     }}
                                 >
                                     {codeExamples[activeTab]}

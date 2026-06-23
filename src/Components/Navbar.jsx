@@ -25,8 +25,7 @@ export default function Navbar() {
                     {/*nav links*/}
                     <div className="hidden md:flex items-center space-x-4">
                         <a href="#Home" className="text-sm font-medium hover:text-blue-500">Home</a>
-                        <a href="#About" className="text-sm font-medium hover:text-blue-500">About</a>
-                        <a href="#Services" className="text-sm font-medium hover:text-blue-500">Services</a>
+                        <a href="#Skills" className="text-sm font-medium hover:text-blue-500">Skills</a>
                         <a href="#Contact" className="text-sm font-medium hover:text-blue-500">Contact</a>
                     </div>
                    <button className="md:hidden focus:outline-none p-2 text-gray-400 hover:text-white"

@@ -9,7 +9,7 @@ export default function Hero() {
   const [activeTab, setActiveTab] = useState("project1");
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center pt-16 sm:pt-20 overflow-hidden">
+    <section id="Home" className="relative min-h-screen flex items-center justify-center pt-16 sm:pt-20 overflow-hidden scroll-mt-20">
       <div className="max-w-7xl mx-auto text-center relative w-full">
         <div className="max-w-7xl mx-auto flex flex-col lg:grid lg:grid-cols-2 gap-6 sm:gap-8 lg:gap-12 items-center relative">
           <div>

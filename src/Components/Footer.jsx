@@ -3,6 +3,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function Footer() {
   return (
+    <footer id="Contact" className="scroll-mt-20" >
     <div className="bg-slate-900 text-white py-10 px-6">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10">
 
@@ -47,5 +48,6 @@ export default function Footer() {
 
       </div>
     </div>
+    </footer>
   );
 }

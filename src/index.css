@@ -18,7 +18,9 @@
   .dealy-100{
     animation-delay:150ms;
   }
-
+html {
+  scroll-behavior: smooth;
+}
 
   @keyframes slideInFormBottom {
     from{

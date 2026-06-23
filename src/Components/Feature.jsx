@@ -9,7 +9,7 @@ const skills = [
 
 export default function Skills() {
   return (
-    <section className="bg-slate-900/70 py-20 px-4">
+    <section id="Skills" className="bg-slate-900/70 py-20 px-4 scroll-mt-20">
       <div className="relative mx-auto max-w-6xl rounded-[30px] bg-white/5 shadow-xl p-10 md:p-16 border border-white/30">
         
         {/* Decorative circles */}
